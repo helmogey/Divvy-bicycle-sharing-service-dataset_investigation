@@ -23,26 +23,26 @@ birthyear: birth year of rider<br />
 
 link to the datasets files " https://divvy-tripdata.s3.amazonaws.com/index.html" For more information, visit http://DivvyBikes.com/data or email questions to data@DivvyBikes.com.
 
-To Download the datasets and merge them together uncomment the following lines
-"download_files()"
-"merge_csv_file(files_path,save_path)"
+To Download the datasets and merge them together uncomment the following lines<br />
+"download_files()"<br />
+"merge_csv_file(files_path,save_path)"<br />
 
 ## Summary of Findings
 
-> After investigation i found:
-1- Some null values which i had to remove.
-2- From the starttime features i created S_Day ( Start day ), S_Year, S_Month and also for the stoptime.
-3- Most of the trips are between few seconds and 1000 seconds.
-4- Males uses this service more than Females in this dataset.
-5- Almost all the users are subscriber.
+> After investigation i found:<br />
+1- Some null values which i had to remove.<br />
+2- From the starttime features i created S_Day ( Start day ), S_Year, S_Month and also for the stoptime.<br />
+3- Most of the trips are between few seconds and 1000 seconds.<br />
+4- Males uses this service more than Females in this dataset.<br />
+5- Almost all the users are subscriber.<br />
 
 
 
 ## Key Insights for Presentation
 
-> After investigation i found:
-1- Most of the users are in the Age group of 2 to 40 but age group 70 to 80 has the higest trip duration average.
-2- The winter is the least season in the demand on bikes.
-3- Although males used the bikes more than females but the average trip duration for females is higher than males.
+> After investigation i found:<br />
+1- Most of the users are in the Age group of 2 to 40 but age group 70 to 80 has the higest trip duration average.<br />
+2- The winter is the least season in the demand on bikes.<br />
+3- Although males used the bikes more than females but the average trip duration for females is higher than males.<br />
 
 
